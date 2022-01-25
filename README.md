@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tugaydurmus
 - 👀 I’m interested in software
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning software
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me "linkedin.com/in/tugaydurmuş "
 
